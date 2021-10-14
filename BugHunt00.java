@@ -5,7 +5,8 @@
 // Version number does not matter as long as it changes each time.  
 
 // The first eight students in class to fix all 10 bugs and demonstrate working code will receive extra credit.
-// When your code runs correctly
+// When your code runs correctly, post on the AP Computer Science A channel and I will come check it.  Post time determines who makes top 8. 
+// There is a specific number that will print when all bugs have been fixed.  
 
 public class BugHunt01 {
     public static void main(String[] args) {
